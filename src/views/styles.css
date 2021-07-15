@@ -1,0 +1,86 @@
+.root{
+  height:1000px;
+  background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+}
+.rootH{
+  height:800px;
+  background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+}
+.rootS{
+  height:1400px;
+  background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+}
+
+.appbarm{
+  background: -webkit-linear-gradient(to right,#928DAB,#00223E );  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #928DAB,#00223E);
+
+}
+    .rootd {
+      height:800px;
+      background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+    }
+    .rootdd {
+      height:1200px;
+      background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+    }
+.appbarm{
+  background: -webkit-linear-gradient(to right,#928DAB,#00223E );  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #928DAB,#00223E);
+}
+.rootadd{
+  height:1300px;
+  background: #2A3450;
+  background: -webkit-radial-gradient(center, #2A3450, #000000);
+  background: -moz-radial-gradient(center, #2A3450, #000000);
+  background: radial-gradient(ellipse at center, #2A3450, #000000);
+}
+.appbarAdd
+{
+  background: -webkit-linear-gradient(to right,#928DAB,#00223E );  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #928DAB,#00223E);
+
+}
+  .appbar{
+    background: #FFA17F;  /* fallback for old browsers */
+
+    background: -webkit-linear-gradient(to right,#928DAB,#00223E );  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #928DAB,#00223E);
+
+  }
+
+  .content_text{
+    
+  border: 0.5px solid grey;
+  width:300;
+  border-radius: 10px;
+  width: 350px;
+margin-left: 10px;    
+  color: white;
+  }
+
+  .buttonM {
+    cursor: pointer;
+    background-color: transparent;
+    height: 30px;
+    width: 90px;
+    color: white;
+    font-size: 0.9em;
+    margin-left: 180px;
+    margin-top: 1px;
+}
